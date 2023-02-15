@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.container {
+  background-image: linear-gradient(to left, #fa7257, #fc63a7);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main-heading {
+  color: #ffffff;
+}
+.buttons {
+  display: flex;
+  flex-direction: row;
+}
+.showHideButton {
+  margin: 10px;
+  color: #dd1264;
+}
+.name {
+  padding: 50px;
+  background-color: #fddddb;
+}
+p {
+  text-align: center;
+}
